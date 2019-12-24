@@ -1,0 +1,8 @@
+Typographic
+It is the way in which printed material is presented. It relates to the style, appearance and production of printed matter. 
+
+Orthographic
+Set of conventions and rules for writing a language. It can be considered similar to syntax for the language.
+
+Suprasegmental
+It is a speech feature like tone, stress that accompanies or is added over consonants or vowels. E.g.  In Spanish the stress accent is often used to distinguish between otherwise identical words: término means “term,” termíno means “I terminate,” and terminó means “he terminated.”
